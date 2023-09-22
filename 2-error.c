@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 int stkerr(unsigned int line_number, char *op);
 int diverr(unsigned int line_number);

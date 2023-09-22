@@ -1,5 +1,5 @@
 
-#include "main.h"
+#include "monty.h"
 
 /**
  * seterror - Sets last element of op_toks

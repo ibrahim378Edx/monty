@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 void adder(stack_t **stack, unsigned int line_number);
 void subber(stack_t **stack, unsigned int line_number);

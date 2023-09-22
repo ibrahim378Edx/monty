@@ -1,6 +1,6 @@
 #define _GNU_SOURCE
 #include <stdio.h>
-#include "main.h"
+#include "monty.h"
 #include <string.h>
 
 void free_tokens(void);

@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 #include <string.h>
 
 void freestk(stack_t **stack);

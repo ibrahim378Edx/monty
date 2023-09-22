@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 void nop(stack_t **stack, unsigned int line_number);
 void pchar(stack_t **stack, unsigned int line_number);

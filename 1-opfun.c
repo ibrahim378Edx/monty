@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 void pusher(stack_t **stack, unsigned int line_number);
 void paller(stack_t **stack, unsigned int line_number);
